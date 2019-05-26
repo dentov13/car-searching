@@ -5,8 +5,7 @@
   "main": "server.js",
   "scripts": {
     "dev": "parcel ./public/index.html --public-url /",
-    "server": "nodemon ./server.js",
-    "prod": "parcel build ./public/index.html --public-url /"
+    "server": "nodemon ./server.js"
   },
   "repository": {
     "type": "git",
